@@ -27,7 +27,7 @@ status-website:
   favicon: https://s3.aharooms.net/resources/aha-logo.png
   logoUrl: https://s3.aharooms.net/resources/aha-logo.png
   name: Status
-  introMessage: The status page which uses real-time data from Aharooms services.
+  introMessage: This is the status page which uses real-time data from Aharooms services.
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
