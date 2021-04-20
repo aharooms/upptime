@@ -1,39 +1,34 @@
-# Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
-
+owner: aharooms # Your GitHub username
+repo: status # Your GitHub repository name
+user-agent: namnhce
+runner: self-hosted
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
-
+  - name: Aharooms
+    url: https://www.aharooms.com
+  - name: Aharooms Admin
+    url: https://admin.aharooms.com
+  - name: PMS Aharooms
+    url: https://pms.aharooms.com
+  - name: Metabase
+    url: https://base.aharooms.com
+  - name: API version 1
+    url: https://be.aharooms.com/healthz
+  - name: API version 2
+    url: https://api.aharooms.com/healthz
+assignees: # Users to assign downtime issues (optional)
+  - namnhce
 status-website:
+  publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.aharooms.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+  favicon: https://s3.aharooms.net/resources/aha-logo.png
+  logoUrl: https://s3.aharooms.net/resources/aha-logo.png
+  name: Status
+  introMessage: This is the status page which uses real-time data from Aharooms services.
+i18n:
+  footer: Powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
