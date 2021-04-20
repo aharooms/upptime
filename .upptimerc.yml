@@ -18,6 +18,7 @@ sites:
     url: https://api.aharooms.com/healthz
 assignees: # Users to assign downtime issues (optional)
   - namnhce
+  - zlatanpham
 status-website:
   # publish: true
   # Add your custom domain below, or remove the next line if you don't have a domain
