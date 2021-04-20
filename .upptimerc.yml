@@ -33,5 +33,3 @@ i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-workflowSchedule:
-  uptime: "*/2 * * * *"
