@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/be.aharooms.com",
     "slug": "api-version-1",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.96%",
+    "uptimeDay": "82.81%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 48,
     "timeDay": 31,
     "timeWeek": 40,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 248
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://api.aharooms.com/healthz",
     "icon": "https://favicons.githubusercontent.com/api.aharooms.com",
     "slug": "api-version-2",
-    "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 46,
-    "timeDay": 37,
-    "timeWeek": 38,
-    "timeMonth": 46,
-    "timeYear": 46,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "82.82%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 45,
+    "timeDay": 36,
+    "timeWeek": 37,
+    "timeMonth": 45,
+    "timeYear": 45,
     "dailyMinutesDown": {
-      "2021-05-06": 0,
+      "2021-05-06": 247,
       "2021-04-20": 43
     }
   }
