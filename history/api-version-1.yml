@@ -1,7 +1,7 @@
 url: https://be.aharooms.com/healthz
-status: up
-code: 200
-responseTime: 31
-lastUpdated: 2021-05-05T23:11:51.615Z
+status: down
+code: 503
+responseTime: 30
+lastUpdated: 2021-05-06T16:20:11.968Z
 startTime: Tue Apr 20 2021 07:17:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
