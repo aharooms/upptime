@@ -60,9 +60,9 @@
     "url": "https://base.aharooms.com",
     "icon": "https://favicons.githubusercontent.com/base.aharooms.com",
     "slug": "metabase",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 317,
     "timeMonth": 293,
     "timeYear": 310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-25": 0
+    }
   },
   {
     "name": "API version 1",
@@ -79,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/be.aharooms.com",
     "slug": "api-version-1",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.83%",
-    "uptimeYear": "97.22%",
+    "uptimeYear": "97.26%",
     "time": 46,
     "timeDay": 75,
     "timeWeek": 43,
