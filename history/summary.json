@@ -4,10 +4,10 @@
     "url": "https://www.aharooms.com",
     "icon": "https://favicons.githubusercontent.com/www.aharooms.com",
     "slug": "aharooms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.38%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1151,
@@ -16,7 +16,7 @@
     "timeMonth": 1139,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2021-07-12": 23
+      "2021-07-12": 24
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/base.aharooms.com",
     "slug": "metabase",
     "status": "down",
-    "uptime": "42.35%",
+    "uptime": "42.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "42.35%",
+    "uptimeYear": "42.33%",
     "time": 310,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2021-07-12": 719,
+      "2021-07-12": 788,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
